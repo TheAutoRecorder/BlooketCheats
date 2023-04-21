@@ -1,7 +1,8 @@
 # BlooketCheats
 Just in case it gets taken down. ORIGINAL LINK: https://github.com/Minesraft2/Blooket-Cheats
 
-How it works (Google Chrome):
+How it works: 
+# Google Chrome
 1. Click 'bookmarklet.html'
 2. Click 'Download'
 3. Right click the black background and save it (Changing the name is optional).
@@ -11,4 +12,5 @@ How it works (Google Chrome):
 7. Click the 3 dots (under the 3 dots of Google Chrome)
 8. Click 'Import Bookmarks'
 9. Insert 'bookmarklet.html'
-And it should be done!
+
+# Other things (Microsoft Edge, Firefox, etc.) will be later.
